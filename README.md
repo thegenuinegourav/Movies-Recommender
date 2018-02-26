@@ -1,4 +1,4 @@
-<img src="/compressor_logo.png" width="75">  
+<img src="/movies_recommender.png" width="100">  
 
 # Movies Recommender  
   
@@ -25,7 +25,9 @@ Step 3: This run 100 iterations, first to train & then outputs the movies best s
   
   
 ### Output
-<img src="output.png" width="800" height="500"/>  
+<img src="output1.png" width="800" height="500"/>  
+<img src="output2.png" width="800" height="500"/>  
+<img src="output3.png" width="800" height="500"/>  
   
   
   
